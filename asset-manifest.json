@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Amethyst-Explosive/static/css/main.06a546f2.css",
+    "main.js": "/Amethyst-Explosive/static/js/main.76129df9.js",
+    "static/media/blank.png": "/Amethyst-Explosive/static/media/blank.fbcb91799ceba75b2e3a.png",
+    "index.html": "/Amethyst-Explosive/index.html",
+    "main.06a546f2.css.map": "/Amethyst-Explosive/static/css/main.06a546f2.css.map",
+    "main.76129df9.js.map": "/Amethyst-Explosive/static/js/main.76129df9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06a546f2.css",
+    "static/js/main.76129df9.js"
+  ]
+}
